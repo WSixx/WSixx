@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Lucas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[![HitCount](http://hits.dwyl.com/WSixx/WSixx.svg)](http://hits.dwyl.com/WSixx/WSixx)
 
-<!--
-**WSixx/WSixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student 💻
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Flutter, Python, AI, PHP, JavaScript
+- 💬 Ask me about: Anything
+- 👯 I’m looking for a software development internship.
+- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/lucassgonçalves/) || [Gmail](lucas.2007s@gmail.com) || [Email](lucas.goncalves35@aluno.unip.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## &#x1f4c8; GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WSixx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
