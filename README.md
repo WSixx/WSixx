@@ -6,7 +6,7 @@ I'm a computer science student 💻
 - 🌱 I’m currently learning Flutter, Python, AI, PHP, JavaScript
 - 💬 Ask me about: Anything
 - 👯 I’m looking for a software development internship.
-- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/lucassgonçalves/) || [Gmail](lucas.2007s@gmail.com) || [Email](lucas.goncalves35@aluno.unip.br)
+- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/lucassgonçalves/) || [mailto](lucas.2007s@gmail.com) || [Email](lucas.goncalves35@aluno.unip.br)
 
 ## &#x1f4c8; GitHub Stats
 
