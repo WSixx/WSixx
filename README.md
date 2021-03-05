@@ -14,9 +14,12 @@ I'm a computer science student 💻
   
   <a href="mailto:lucas.2007s@gmail.com">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="Gmail" style="vertical-align:top; margin:4px">
+  
+  <a href="mailto:lucas.goncalves35@aluno.unip.br">
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="Email" style="vertical-align:top; margin:4px">
     
 </p>
-  </a> || [Gmail](lucas.2007s@gmail.com) || [Email](lucas.goncalves35@aluno.unip.br)
+  
 
 ## &#x1f4c8; GitHub Stats
 
