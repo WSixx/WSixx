@@ -1,5 +1,4 @@
 ### Hi, I'm Lucas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![HitCount](http://hits.dwyl.com/WSixx/WSixx.svg)](http://hits.dwyl.com/WSixx/WSixx)
 
 I'm a computer science student 💻
 
