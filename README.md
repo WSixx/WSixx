@@ -4,7 +4,6 @@ I'm a computer science student 💻
 
 - 🌱 I’m currently learning Flutter, Kotlin, Python, JavaScript
 - 💬 Ask me about: Anything
-- 👯 I’m looking for a software development internship.
 - 📫 How to reach me: 
 <p align="center">
   
