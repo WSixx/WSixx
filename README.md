@@ -2,7 +2,7 @@
 
 I'm a computer science student 💻
 
-- 🌱 I’m currently learning Flutter, Kotlin, Python, JavaScript
+- 🌱 I’m currently learning Flutter, Kotlin, Python, Java
 - 💬 Ask me about: Anything
 - 📫 How to reach me: 
 <p align="center">
