@@ -14,8 +14,3 @@ I'm a computer science student 💻
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="Gmail" style="vertical-align:top; margin:4px">
     
 </p>
-  
-
-## &#x1f4c8; GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WSixx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
