@@ -2,9 +2,6 @@
 
 **Android Developer** 💻
 
-- 🌱 **Currently exploring:** Deepening my knowledge in high-performance computing, memory management, and low-level development with **C, C++, and Rust** (including JNI/NDK integration).
-- 💬 Ask me about: Anything
-
 📫 **How to reach me:** 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucasgo/">
